@@ -22,6 +22,6 @@ I am an Assistant Professor in the Computatioal Intelligence Group at the Vrije 
 
 One area of particular interest of mine is the combination of deep reinforcement learning with evolutionary principles, for the development of AI-assisted design methodologies and physical/embodied intelligence, to allow robots to co-adapt both their behaviour and morpoholgy.
 
-Before I joined Amsterdam I worked as postdoctoral researcher at the Aalto University and the [Finnish Center for Artificial Intelligence](https://fcai.fi/) in Espoo (Helsinki), Finland, where I am hosted by the [Intelligent Robotics Group](https://irobotics.aalto.fi/) of Ville Kyrki.
+Before I joined Amsterdam I worked as postdoctoral researcher at the Aalto University and the [Finnish Center for Artificial Intelligence](https://fcai.fi/) in Espoo (Helsinki), Finland, where I am/was hosted by the [Intelligent Robotics Group](https://irobotics.aalto.fi/) of Ville Kyrki.
 
 Keywords: (Deep) Reinforcement Learning, Robot Learning, Embodied Intelligence, Evolving Robots
