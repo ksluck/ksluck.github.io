@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://cs.vu.nl/ci/'>Computational Intelligence Group</a> @ <a href='https://vu.nl'>Vrije Universiteit Amsterdam</a>
+subtitle: <a href='https://cs.vu.nl/ci/'>Computational Intelligence Group</a> @ <a href='https://vu.nl/en'>Vrije Universiteit Amsterdam</a>
 
 profile:
   align: right
