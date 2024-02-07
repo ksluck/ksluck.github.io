@@ -4,3 +4,27 @@
 
 "PhysRev":
   url: https://journals.aps.org/
+
+"IROS":
+  url: https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros
+
+"AAAI":
+  url: https://aaai.org/conference/aaai/
+
+"Springer":
+  url: https://www.springer.com/
+
+"R:SS":
+  url: https://roboticsconference.org/
+
+"CoRL":
+  url: https://www.robot-learning.org/
+
+"RA-L":
+  url: https://www.ieee-ras.org/publications/ra-l
+
+"ICLR":
+  url: https://iclr.cc/
+
+"NeurIPS":
+  url: https://nips.cc/
