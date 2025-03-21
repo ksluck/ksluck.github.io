@@ -10,7 +10,7 @@ email: k.s.luck@vu.nl
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Dr. Kevin Sebastian Luck is an Assistant Professor at the Vrije Universiteit Amsterdam.
 footer_text: >
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: robot learning, robotics, reinforcement learning # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -171,6 +171,11 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  posts:
+    defaults:
+      layout: post
+    output: true
+    permalink: /blog/posts/:path/
 
 announcements:
   enabled: true
